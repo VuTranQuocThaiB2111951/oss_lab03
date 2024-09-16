@@ -1,0 +1,1 @@
+print("This is exercise 3 of Lab 3 - OSS")
